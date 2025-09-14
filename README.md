@@ -1,22 +1,24 @@
-## Суть проекта
-Проект для управления складом с микросервисной архитектурой. StoreSystem обеспечивает взаимодействие через REST API и WebSocket, поддерживает управление данными с использованием PostgreSQL, а также логирование и мониторинг с помощью Kafka и ELK.
+=
 
-### Выполненные задачи:
-* Тестирование API через Postman.
-* Работа с базой данных PostgreSQL.
-* Заведение дефектов в JIRA.
-* Анализ и работа с требованиями в Confluence.
-* Написание тест-кейсов в TestIT.
-### Технологический стек:
-* API тестирование: Postman.
-* База данных: PostgreSQL.
-* Управление проектами: JIRA, Confluence.
-* Документация и тестирование: TestIT.
-* Запуск Docker-контейнеров.
-* Просмотр логов в Kibana и работа с Elasticsearch.
-* Изучение микросервисной архитектуры и связанных технологий.
+Project Essence
 
+Project for warehouse management with a microservice architecture. StoreSystem provides interaction through REST API and WebSocket, supports data management using PostgreSQL, as well as logging and monitoring with Kafka and ELK.
+
+Completed tasks:
+	•	API testing through Postman.
+	•	Work with PostgreSQL database.
+	•	Defects creation in JIRA.
+	•	Analysis and work with requirements in Confluence.
+	•	Writing test cases in TestIT.
+
+Technology stack:
+	•	API testing: Postman.
+	•	Database: PostgreSQL.
+	•	Project management: JIRA, Confluence.
+	•	Documentation and testing: TestIT.
+	•	Running Docker containers.
+	•	Viewing logs in Kibana and working with Elasticsearch.
+	•	Studying microservice architecture and related technologies.
 
 [Repository](https://github.com/meshkovQA/StoreSystem)
-
 
