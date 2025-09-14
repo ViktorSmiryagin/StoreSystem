@@ -1,4 +1,4 @@
-=
+
 
 Project Essence
 
@@ -21,4 +21,5 @@ Technology stack:
 	•	Studying microservice architecture and related technologies.
 
 [Repository](https://github.com/meshkovQA/StoreSystem)
+
 
